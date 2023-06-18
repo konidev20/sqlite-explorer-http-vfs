@@ -1,4 +1,5 @@
 # sqlite-explorer - CLI tool to query SQL over HTTP
+Run SELECT queries against SQLite databases over HTTP using a VFS driver. This repository also contains examples to use Pre-signed URLs to access SQLite databases stored in S3
 
 # SELECT Query
 ```
