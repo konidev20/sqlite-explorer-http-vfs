@@ -11,4 +11,4 @@ Run SELECT queries against SQLite databases over HTTP using a VFS driver. This r
 ```
 
 # References
-[https://github.com/psanford/sqlite3vfshttp](sqlitehttpcli/sqlitehttpcli.go)
+[psanford/sqlite3vfshttp](https://github.com/psanford/sqlite3vfshttp/)
